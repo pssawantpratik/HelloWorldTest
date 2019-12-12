@@ -1,0 +1,11 @@
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csprojAssemblyReference.cache
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\pratik.pradip.sawant\TestHelloWorld\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
